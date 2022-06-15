@@ -29,6 +29,8 @@
     "typescript": "^3.5.3"
   },
   "dependencies": {
+    "@jimp/custom": "^0.16.1",
+    "@jimp/types": "^0.16.1",
     "express": "^4.17.1",
     "jimp": "^0.16.1",
     "lodash": "^4.17.15",
